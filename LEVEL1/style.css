@@ -1,8 +1,24 @@
+*{
+    color: blue;
+}
 h1{
     color:blue;
     background-color: yellow;
 }
-p{
+
+/* for id use (#) and (.) for class  */
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: orange ;
+}
+#box1 , #box2 , #box3{
+    height: 50px; width: 50px;
     color: red;
-    
+    background-color: blue;
+
+}
+/* descendant selector */
+div p {
+    color: white;
 }
