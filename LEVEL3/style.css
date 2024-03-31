@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 36px;
+}
+div p{
+    background-color: yellow;
+    font-style: italic;
+}
+.hi{
+    font-weight: 900;
+}
